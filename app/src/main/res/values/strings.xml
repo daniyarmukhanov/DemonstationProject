@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demonstation Project</string>
+    <string name="username">username</string>
+    <string name="write_your_name">Напишите ваше имя</string>
+    <string name="tap_me">Tap me!</string>
+    <string name="your_name_is">Your name is: </string>
+</resources>
