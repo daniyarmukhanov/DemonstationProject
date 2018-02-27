@@ -11,6 +11,7 @@ public class MainActivity extends AppCompatActivity {
 
     Button pressButton;
     EditText usernameEditText;
+    String newVar;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
